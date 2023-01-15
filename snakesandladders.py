@@ -1,6 +1,3 @@
-# The code for this project represents my own, independent work. I have neither given nor received help on this assignment from other students.
-# Author: Kayla Homatas
-
 import random
 
 def snake_or_ladder(pos):
